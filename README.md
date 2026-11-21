@@ -52,20 +52,6 @@ Instead of focusing on dashboard creation, the primary objective was to build a 
 - Power Query
 - DAX
 
-## Screenshots
-
-### Before Modeling
-
-(Add Before Model Screenshot)
-
-### After Modeling
-
-(Add After Model Screenshot)
-
-### Power BI Model View
-
-(Add Model View Screenshot)
-
 ## Key Learning Outcomes
 
 - Learned how to transform a poorly structured dataset into an enterprise-ready analytical model.
